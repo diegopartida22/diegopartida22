@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegopartida22
 - 👀 I’m interested in ... Learning new software development skills
-- 🌱 I’m currently learning ... Cloud development and Programming of Data Structures and Fundamental Algorithms
+- 🌱 I’m currently learning ... Programming of Data Structures and Fundamental Algorithms and Cloud development
 - 💞️ I’m looking to collaborate on ... Full-stack development
 - 📫 How to reach me ... diegopartidaromero@gmail.com or A01641113@tec.mx
 
