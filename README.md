@@ -43,23 +43,40 @@ I'm a passionate software developer with a love for creating impactful applicati
 <!-- My Projects -->
 ## 🌟 Featured Projects
 
-### 1. Project Name
+## ApeironAI
 
-![Project Image](https://via.placeholder.com/800x400)
+**Tech Stack:** Next.js, Tailwind CSS, GitHub, Git, Vercel, Hostinger, OpenAI API  
+**Duration:** December 2022 - January 2023
 
-🔗 [Live Demo](https://example.com/)
-🔗 [GitHub Repo](https://github.com/diegopartida22/project-name)
+- Developed a range of tools for creative and practical applications such as coding, marketing, art, and typography.
+- Leveraged technical skills in Next.js and Tailwind, with a deep understanding of front-end development best practices.
+- Focused on delivering user-friendly solutions and enhancing the user experience.
+- Driven to drive business growth through the use of cutting-edge AI capabilities.
 
-> A short description of the project and its significance. Briefly mention the tech stack used and any challenges overcome.
+🔗 [Visit ApeironAI](https://www.apeiron-ai.com/)
 
-### 2. Project Name
+## SOLFund
 
-![Project Image](https://via.placeholder.com/800x400)
+**Tech Stack:** Next.js, Tailwind CSS, Blockchain, Solana, GitHub  
+**Duration:** June 2023
 
-🔗 [Live Demo](https://example.com/)
-🔗 [GitHub Repo](https://github.com/diegopartida22/project-name)
+- SOLFund is a crowdfunding web platform built on the Solana blockchain, allowing people to make donations to various campaigns.
+- Users can connect to SOLFund using their Solana wallet, such as Phantom, enabling them to make secure and transparent transactions.
+- Campaign creators can register and set fundraising goals.
+- Donors can browse campaigns, view the set goals, and make donations using their Solana wallet.
 
-> A short description of the project and its significance. Briefly mention the tech stack used and any challenges overcome.
+🔗 [Visit SOLFund](https://sol-funding.vercel.app/)
+
+## Numerologist Portfolio
+
+**Tech Stack:** React.js, Bootstrap, Vercel, Hostinger, GitHub  
+**Duration:** February - April 2023
+
+- This portfolio website is designed for a numerologist to showcase her services.
+- It features an appealing and professional design that reflects the numerologist's brand and style.
+- The website includes a section where visitors can calculate their personal year.
+
+🔗 [Visit Numerologist Portfolio](https://www.marychelyromero.com/)
 
 <!-- Let's Connect -->
 ## 🤝 Let's Connect
