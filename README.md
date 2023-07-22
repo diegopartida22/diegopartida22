@@ -10,7 +10,7 @@
 
 <!-- Animated Introduction -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVqYnNxNnJ6NXk2bG5uc2FqeTQ0Yml6eGt2ZmZ2enQ2ZHd0MWw4aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI4sFlp73fvEYgw/giphy.gif" alt="Animated Introduction" />
+  <img src="https://media1.giphy.com/media/ZmdErsWqppgMo/giphy.gif?cid=ecf05e470lesq8vjrac5ug0mjekuvl9fmi13r4yz0nuicg1v&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated Introduction" />
 </p>
 
 <!-- About Me -->
@@ -21,11 +21,6 @@ I'm a passionate software developer with a love for creating impactful applicati
 - 🌱 I’m currently learning advanced React patterns and exploring serverless architecture.
 - 💬 Ask me about anything tech-related! I'd love to help and discuss.
 - 📫 How to reach me: drop me an email at diegopartidaromero@.com or connect with me on LinkedIn.
-
-<!-- Animated Stats -->
-<p align="center">
-  <img src="https://example.com/animated-stats.gif" alt="Animated Stats" />
-</p>
 
 <!-- Tech Stack -->
 ## 🔧 Tech Stack
