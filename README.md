@@ -6,7 +6,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=diegopartida22&color=blueviolet)
 [![GitHub Follow](https://img.shields.io/github/followers/diegopartida22?style=social)](https://github.com/diegopartida22)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/diegopartidaromero/)
-[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Explore-green)](https://diegopartida-portfolio.vercel.app/)
+
+<!-- Animated Introduction -->
+<p align="center">
+  <img src="https://example.com/animated-intro.gif" alt="Animated Introduction" />
+</p>
 
 <!-- About Me -->
 ## 🚀 About Me
@@ -17,7 +21,12 @@ I'm a passionate software developer with a love for creating impactful applicati
 - 💬 Ask me about anything tech-related! I'd love to help and discuss.
 - 📫 How to reach me: drop me an email at diegopartidaromero@.com or connect with me on LinkedIn.
 
-<!-- My Tech Stack -->
+<!-- Animated Stats -->
+<p align="center">
+  <img src="https://example.com/animated-stats.gif" alt="Animated Stats" />
+</p>
+
+<!-- Tech Stack -->
 ## 🔧 Tech Stack
 
 ### Frontend
@@ -41,25 +50,28 @@ I'm a passionate software developer with a love for creating impactful applicati
 ![Git](https://img.shields.io/badge/-Git-F05032)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC)
 
-<!-- My Projects -->
+<!-- Featured Projects -->
 ## 🌟 Featured Projects
 
-## ApeironAI
+### 1. ApeironAI
 
-**Tech Stack:** Next.js, Tailwind CSS, GitHub, Git, Vercel, Hostinger, OpenAI API  
-**Duration:** December 2022 - January 2023
+![Project Image]([https://via.placeholder.com/800x400](https://diegopartida-portfolio.vercel.app/images/ApeironAI.webp))
 
 - Developed a range of tools for creative and practical applications such as coding, marketing, art, and typography.
-- Leveraged technical skills in Next.js and Tailwind, with a deep understanding of front-end development best practices.
-- Focused on delivering user-friendly solutions and enhancing the user experience.
+- Technical skills in Next.js and Tailwind, with a deep understanding of front-end development best practices.
+- Focus on delivering user-friendly solutions and enhancing the user experience.
 - Driven to drive business growth through the use of cutting-edge AI capabilities.
 
 🔗 [Visit ApeironAI](https://www.apeiron-ai.com/)
 
-## SOLFund
+<!-- Dynamic GIF -->
+<p align="center">
+  <img src="https://example.com/dynamic-gif.gif" alt="Dynamic GIF" />
+</p>
 
-**Tech Stack:** Next.js, Tailwind CSS, Blockchain, Solana, GitHub  
-**Duration:** June 2023
+### 2. SOLFund
+
+![Project Image](https://via.placeholder.com/800x400)
 
 - SOLFund is a crowdfunding web platform built on the Solana blockchain, allowing people to make donations to various campaigns.
 - Users can connect to SOLFund using their Solana wallet, such as Phantom, enabling them to make secure and transparent transactions.
@@ -68,19 +80,27 @@ I'm a passionate software developer with a love for creating impactful applicati
 
 🔗 [Visit SOLFund](https://sol-funding.vercel.app/)
 
-## Numerologist Portfolio
+<!-- Interactive Elements -->
+<p align="center">
+  <button>Switch Theme</button>
+</p>
 
-**Tech Stack:** React.js, Bootstrap, Vercel, Hostinger, GitHub  
-**Duration:** February - April 2023
+### 3. Numerologist Portfolio
+
+![Project Image](https://via.placeholder.com/800x400)
 
 - This portfolio website is designed for a numerologist to showcase her services.
-- It features an appealing and professional design that reflects the numerologist's brand and style.
+- Appealing and professional design that reflects the numerologist's brand and style.
 - The website includes a section where visitors can calculate their personal year.
 
 🔗 [Visit Numerologist Portfolio](https://www.marychelyromero.com/)
 
-<!-- Let's Connect -->
-## 🤝 Let's Connect
+<!-- QR Code -->
+<p align="center">
+  <img src="https://example.com/qr-code.png" alt="QR Code" />
+</p>
+
+## Let's Connect
 
 I'm excited to connect with fellow developers, tech enthusiasts, and potential collaborators! Don't hesitate to reach out or explore my work further.
 
@@ -88,8 +108,10 @@ I'm excited to connect with fellow developers, tech enthusiasts, and potential c
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/diegopartida22)
 [![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Explore-green)](https://diegopartida-portfolio.vercel.app/)
 
-<!-- Footer -->
-## 🎉 Thanks for visiting!
+<!-- Quote Section -->
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+## Thanks for visiting!
 
 I hope you enjoyed exploring my profile. Have a great day and happy coding! 😊
 
