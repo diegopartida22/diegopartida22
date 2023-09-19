@@ -29,7 +29,6 @@ I'm a passionate software developer with a love for creating impactful applicati
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![React](https://img.shields.io/badge/-React-61DBFB)
-![Redux](https://img.shields.io/badge/-Redux-764ABC)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC)
@@ -38,7 +37,6 @@ I'm a passionate software developer with a love for creating impactful applicati
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1)
 
 ### Dev Tools
