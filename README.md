@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=diegopartida22&color=blueviolet)
 [![GitHub Follow](https://img.shields.io/github/followers/diegopartida22?style=social)](https://github.com/diegopartida22)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/diegopartidaromero/)
-[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Explore-green)](https://diegopartida-portfolio.vercel.app/)
+[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Explore-green)](https://diegopartidar.com/)
 
 <!-- Animated Introduction -->
 <p align="center">
