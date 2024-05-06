@@ -37,7 +37,7 @@ I'm a passionate software developer with a love for creating impactful applicati
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933)
-![Express.js](https://img.shields.io/badge/-Express.js-000000)
+![Express.js](https://img.shields.io/badge/-Express.js-7AB2B2)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1)
 
 ### Dev Tools
