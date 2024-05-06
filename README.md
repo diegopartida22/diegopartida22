@@ -24,6 +24,9 @@ I'm a passionate software developer with a love for creating impactful applicati
 
 <!-- Tech Stack -->
 ## 🔧 Tech Stack
+![diegopartida22's Stats](https://github-readme-stats.vercel.app/api?username=diegopartida22&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![diegopartida22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegopartida22&theme=tokyonight&hide_border=true)
+![diegopartida22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegopartida22&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ### Frontend
 
