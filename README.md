@@ -28,7 +28,7 @@ I'm a passionate software developer with a love for creating impactful applicati
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Next.js](https://img.shields.io/badge/-JavaScript-black)
+![Next.js](https://img.shields.io/badge/-NextJS-black)
 ![React](https://img.shields.io/badge/-React-61DBFB)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6)
