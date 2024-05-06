@@ -20,7 +20,7 @@ I'm a passionate software developer with a love for creating impactful applicati
 
 - 🌱 I’m currently learning advanced React patterns and exploring serverless architecture.
 - 💬 Ask me about anything tech-related! I'd love to help and discuss.
-- 📫 How to reach me: drop me an email at diegopartidaromero@.com or connect with me on LinkedIn.
+- 📫 How to reach me: drop me an email at diegopartidaromero@gmail.com or connect with me on LinkedIn.
 
 <!-- Tech Stack -->
 ## 🔧 Tech Stack
